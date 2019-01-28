@@ -1,8 +1,6 @@
 # tictactoeAI
 REQUIRES NUMPY
 
-An AI that plays tictactoe
-
 How To Play:
 1) Run the program
 2) Tiles are numbered as follows
