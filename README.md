@@ -1,6 +1,8 @@
 # tictactoeAI
 REQUIRES NUMPY
 
+This AI learned by first playing against a hardcoded AI and then by playing a bunch of matches against me.
+
 How To Play:
 1) Run the program
 2) Tiles are numbered as follows
@@ -13,4 +15,4 @@ How To Play:
 
 3) You move first and are 1's, the AI is -1's.
 4) Input the number of the tile youd like to place a 1 in.
-5) The game plays out like normal Tic Tac Toe
+5) The game plays out like normal Tic Tac Toe.
