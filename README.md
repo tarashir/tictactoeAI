@@ -1,5 +1,6 @@
 # tictactoeAI
 REQUIRES NUMPY
+
 An AI that plays tictactoe
 
 How To Play:
